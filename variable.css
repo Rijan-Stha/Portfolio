@@ -1,0 +1,5 @@
+:root{
+    --outer-shadow: 3px 3px 3px #ccc, -3px -3px 3px #f8f8f8;
+    --outer-shadow-0: 0px 0px 0px #ccc;
+    --inner-shadow:inset 3px 3px 3px #ccc, inset -3px -3px 3px #f8f8f8; 
+}
